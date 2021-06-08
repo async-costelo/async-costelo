@@ -6,6 +6,9 @@
   <img align="center" height="205" src="https://github-readme-stats.vercel.app/api?username=async-costelo&theme=dark" />
 </a>
 
+## About me
+
+Hi, I'm AJ.
 
 
 
